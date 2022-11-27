@@ -8,7 +8,7 @@
 	<input type="text" placeholder="Enter Name" name="name" id="name" required>
 	<br>
 
-	<label for="mobile"><b>Enter Email</b></label>
+	<label for="mobile"><b>Enter Phone Number</b></label>
     	<input type="text" placeholder="Enter mobile number" name="mobile" id="mobile" required>
 	<br>
 
@@ -27,6 +27,9 @@
   <div class="container signin">
 	<p>Ya tienes una cuenta?? <a href="#">Sign in</a>.</p>
   </div>
+
+         <h1> Thank you!, Happy Learning!!! </h1>
+
 </form>
 
 
